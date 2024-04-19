@@ -9050,7 +9050,7 @@ img {
   background-image: linear-gradient(24deg, #1717e5, transparent 21%), linear-gradient(198deg, rgba(255, 193, 7, 0.2) 11%, transparent 0%), linear-gradient(50deg, #6610f2 5%, #6f42c1 32%, #d63384 35%, #dc3545 65%, #fd7e14 83%, #ffc107 91%); }
 
 .display-4 {
-  font-weight: 500; }
+  font-weight: 500s; }
 
 .no-bottom-radius {
   border-bottom-left-radius: 0px !important;
